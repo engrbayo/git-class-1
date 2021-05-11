@@ -3,5 +3,5 @@
 ls
 echo "Hello world" 
 echo "Cleaning directory..."  
-clear 
+pwd 
 echo "Completed!" 
